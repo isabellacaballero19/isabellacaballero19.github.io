@@ -240,6 +240,6 @@ h1, h2, p, span {
     0 2px 6px rgba(0, 0, 0, 0.7),
     0 4px 12px rgba(0, 0, 0, 0.7);
 }
-p {
+.intro {
   font-weight: 500;
 }
