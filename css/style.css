@@ -1,5 +1,5 @@
 :root {
-    --primaryText: #fff;
+    --primaryText: #fffcfc;
     --secondaryText: #f596b8;
     --primary: rgba(245, 40, 145, 0.8);
     --secondary:rgba(245, 40, 145, 0.8); 
@@ -228,4 +228,8 @@ img {
     .slidedown {
         width: 40%;
     }
+}
+.button.toggle {
+  color: var(--primaryText);
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
 }
